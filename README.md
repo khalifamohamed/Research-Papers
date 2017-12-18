@@ -5,3 +5,5 @@ Quality Assurance and its impact on Automotive Industry
 
 This Research Paper discusses how automotive industry used the quality assurance standards to take Cars to a whole new level.
 
+# It is not %100 originated work, I've used many references and many statistics to get this research done.
+
